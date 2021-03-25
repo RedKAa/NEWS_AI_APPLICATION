@@ -1,5 +1,4 @@
-import {makeStyles, withTheme} from '@material-ui/core/styles';
-import { findByLabelText } from '@testing-library/dom';
+import {makeStyles} from '@material-ui/core/styles';
 
 export default makeStyles({
   card: {
