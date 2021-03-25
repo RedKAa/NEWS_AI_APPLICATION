@@ -1,3 +1,8 @@
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=RedKAa_NEWS_AI_APPLICATION)](https://sonarcloud.io/dashboard?id=RedKAa_NEWS_AI_APPLICATION)
+
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
