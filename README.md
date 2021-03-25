@@ -1,8 +1,9 @@
-# A SIMPLE VOICE RECOGNITION SOFTWARE FOR SEARCHING NEWS
+# NEWS_AI_APPLICATION
 
 ## Live Site
 
 ## Introduction:
+#### A simple voice recognition software for searching news
 ...
 
 
